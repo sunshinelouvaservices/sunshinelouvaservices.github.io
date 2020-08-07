@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Amalfi Coast';
+   font-display: swap;
+   src: url('Amalfi Coast/font.ttf');
+}
+@font-face {
+   font-family: 'AlegreyaSansSC-Regular';
+   font-display: swap;
+   src: url('AlegreyaSansSC-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'AlegreyaSans-Regular';
+   font-display: swap;
+   src: url('AlegreyaSans-Regular/font.ttf');
+}
